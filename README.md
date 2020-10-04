@@ -1,1 +1,1 @@
-# use-jwt-auth
+# tsup boilerplate
