@@ -1,7 +1,9 @@
 {
   "name": "use-jwt-auth",
   "version": "0.0.1",
-  "main": "index.js",
+  "module": "dist/esm/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "https://github.com/nksaraf/use-jwt-auth.git",
   "author": "Nikhil Saraf <nsaraf98@gmail.com>",
   "license": "MIT",
