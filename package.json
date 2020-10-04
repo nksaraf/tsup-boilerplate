@@ -8,6 +8,7 @@
   "author": "Nikhil Saraf <nsaraf98@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "prepublishOnly": "yarn build",
     "build": "yarn tsup src/index.ts --format cjs,esm --dts --legacy-output"
   },
   "files": [
